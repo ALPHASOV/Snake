@@ -1,0 +1,15 @@
+# Game configuration
+WINDOW_WIDTH = 600
+WINDOW_HEIGHT = 600
+CELL_SIZE = 20
+CELL_NUMBER_X = WINDOW_WIDTH // CELL_SIZE
+CELL_NUMBER_Y = WINDOW_HEIGHT // CELL_SIZE
+
+# Color definitions
+BLACK = (0, 0, 0)
+WHITE = (255, 255, 255)
+GREEN = (0, 255, 0)
+RED = (255, 0, 0)
+
+# Game speed
+GAME_SPEED = 10
